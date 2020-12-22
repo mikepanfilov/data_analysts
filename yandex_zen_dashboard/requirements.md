@@ -1,0 +1,9 @@
+Для работы должны быть установлены дополнительные библиотеки:
+
+pandas
+sqlalchemy
+dash
+dash_core_components
+dash_html_components
+dash.dependencies
+plotly.graph_objs
