@@ -1,5 +1,7 @@
 # Yandex.Praktikum education projects
 
+[** Lookup via Jupyter Notebook Viewer **](https://nbviewer.jupyter.org/github/mikepanfilov/data_analysts/tree/master/)
+
 ab-sql-final-project - diploma project includes three subtasks(AB-testing, SQL loadings and total project with hypothesis testings and clastering).
 
 There are my practice projects while I was learning at Yandex.Praktikum data analysis camp.
@@ -9,6 +11,8 @@ Descriptions, comments and conclusions inside notebooks are written in Russian.
 ---
 
 # Учебные проекты Яндекс.Практикум
+
+[** Просмотреть через Jupyter Notebook Viewer **](https://nbviewer.jupyter.org/github/mikepanfilov/data_analysts/tree/master/)
 
 ab-sql-final-project - дипломный проект, который сотоит из трех подзаданий (AB-тестирование, SQL-запросы и полный проект с проверкой гипотез и кластеризацией).
 
